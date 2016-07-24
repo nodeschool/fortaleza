@@ -1,0 +1,2 @@
+- [CJ Patoilo](http://github.com/cjpatoilo)
+- [Cícero Viana](http://github.com/cicerohen)
